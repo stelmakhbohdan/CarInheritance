@@ -1,5 +1,3 @@
-import javax.swing.*;
-
 public class Vehicle {
     private String name;
     private String size;
